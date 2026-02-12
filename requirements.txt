@@ -1,6 +1,5 @@
+biopython
 pandas
-numpy
 matplotlib
 seaborn
 geopandas
-scikit-learn
