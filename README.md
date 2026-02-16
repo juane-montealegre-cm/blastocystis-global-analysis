@@ -85,7 +85,7 @@ Sequence alignment, trimming, and phylogenetic reconstruction were performed usi
 
 ---
 
-## Author
+## Authors
 
 Juan Esteban Montealegre  
 Undergraduate Researcher in Biology
