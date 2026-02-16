@@ -46,17 +46,15 @@ Metadata fields (host, country, taxonomic classification) were manually curated 
 ## Repository structure
 
 data/
-
 raw/
-- sequence.fasta → Original GenBank sequences
-
+- sequence.fasta
+- blastocystis_18S_metadata.csv
 curated/
 - blastocystis_18S_noDuplicados.fasta → Sequences after duplicate removal
 - blastocystis_18S_aligned.fasta → MAFFT alignment output
 - blastocystis_18S_aligned_300bp.fasta → Alignment filtered (≥300 bp)
 - blastocystis_18S_aligned_Trimed.fasta → Final manually trimmed alignment
 - datos_blastocystis_corregido.csv → Manually curated metadata table
-
 tree/
 - blastocystis_tree.newick → Final Maximum Likelihood phylogenetic tree
 
